@@ -34,4 +34,9 @@ See Wiki for detailed information.
 
 ----
 
-C6 need to change ATF:  https://youtu.be/Vk7nIrNb4zU
+C6 
+
+* need to change ATF:  https://youtu.be/Vk7nIrNb4zU
+* need to do an engine compression test 
+* can do a spark test to make sure all cylinders are firing
+
