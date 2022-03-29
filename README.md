@@ -2,6 +2,8 @@
 
 See Wiki for detailed information.
 
+[Must upgrade](https://youtu.be/ZJEy2ohTPmw)
+
 ## Multiple Error Code Issue
 ### Symptoms:
     * Car showing multiple error codes from shocks to tires
