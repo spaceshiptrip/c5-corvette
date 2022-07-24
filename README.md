@@ -2,6 +2,17 @@
 
 See Wiki for detailed information.
 
+Work done including maintenance
+
+July 22, 2022
+Odometer: 97846 - Oil Change - Oil Filter Change
+CAGS skip shift removal - before installing make sure to remove the battery
+New Rear lowering bolts
+Front lower bolts are stock and lowered as much as it can turn - could remove padding if want to go lower
+Replaced all stock end links that are plastic with moog links
+Replaced rear sway bar bushing
+Installed rear view mirror cameras.
+
 [Must upgrade](https://youtu.be/ZJEy2ohTPmw)
 
 ## Multiple Error Code Issue
