@@ -62,3 +62,8 @@ C6
 * need to do an engine compression test 
 * can do a spark test to make sure all cylinders are firing
 
+
+## Issues
+* Car is not starting
+* Check TEK2 adapter from Amazon https://www.amazon.com/gp/product/B074365Q6H/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B074365Q6H&linkCode=as2&tag=samcrac-20&linkId=051702205d1fe8fb3b581a71802343af
+
