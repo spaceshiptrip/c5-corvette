@@ -45,8 +45,14 @@ Installed rear view mirror cameras.
      * headlamp fully goes down
  
  
- Torque Specs <br>
+ ## Torque Specs <br> 
+ January 20, 2023 - 98xxx miles - replaced oil pressure sensor by cutting hole to reach sensor <br>
  Oil pressure sensor -15 ft-lb
+ <br>
+ <br>
+ ## Issues
+    * Smoke coming out of rear driver side manifold.  It could be the engine cleaner burning off because temperature appears to be stable
+    * Noticed a vaccuum connection corroded and came apart, what is the name of the part to replace?   
 
 ----
 
