@@ -44,6 +44,9 @@ Installed rear view mirror cameras.
   ### Result:
      * headlamp fully goes down
  
+ 
+ Torque Specs <br>
+ Oil pressure sensor -15 ft-lb
 
 ----
 
